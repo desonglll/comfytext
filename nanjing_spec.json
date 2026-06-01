@@ -1,0 +1,87 @@
+{
+  "title": "古韵金陵 · 南京印象",
+  "author": "Kai 🌊",
+  "slides": [
+    {
+      "type": "title",
+      "title": "古韵金陵 · 南京印象",
+      "subtitle": "六朝古都，十朝都会——一座用历史书写的城市"
+    },
+    {
+      "type": "content",
+      "title": "南京概览",
+      "bullets": [
+        "六朝古都，拥有近2500年建城史、近500年建都史",
+        "中国四大古都之一，国家历史文化名城",
+        "长江下游中心城市，长三角特大城市",
+        "「江南佳丽地，金陵帝王州」——南京兼具古韵与现代"
+      ]
+    },
+    {
+      "type": "content_image",
+      "title": "千年城垣 · 明孝陵",
+      "bullets": [
+        "明城墙：现存世界最长、规模最大的古代城墙",
+        "明孝陵：明太祖朱元璋陵寝，世界文化遗产",
+        "中山陵：中国近代民主革命先行者孙中山陵墓",
+        "古迹遍布：石头城、鸡鸣寺、栖霞寺……",
+        "每块青砖都刻着匠人的名字，千年不朽"
+      ],
+      "image": "/Volumes/Tuo-APFS/workspace/openclaw-text-image/images/nanjing_wall_a9bc942f.png",
+      "image_position": "right"
+    },
+    {
+      "type": "content_image",
+      "title": "山水城林 · 绿都南京",
+      "bullets": [
+        "紫金山：南京的绿色脊梁，森林覆盖率超70%",
+        "玄武湖：中国最大的皇家园林湖泊",
+        "「钟山龙蟠，石城虎踞」——诸葛亮的千古名评",
+        "春赏梅花秋赏桂，四季皆有景",
+        "南京绿道总长超1300公里，城市与自然共生"
+      ],
+      "image": "/Volumes/Tuo-APFS/workspace/openclaw-text-image/images/nanjing_lake_92c8f8a1.png",
+      "image_position": "left"
+    },
+    {
+      "type": "image",
+      "image": "/Volumes/Tuo-APFS/workspace/openclaw-text-image/images/nanjing_qinhuai_62c4e241.png",
+      "caption": "秦淮夜色 · 烟笼寒水月笼沙"
+    },
+    {
+      "type": "content",
+      "title": "秦淮风雅 · 六朝文脉",
+      "bullets": [
+        "夫子庙·秦淮河：中国第一历史文化名河",
+        "江南贡院：中国古代最大的科举考场",
+        "王谢故居：「旧时王谢堂前燕」的原型所在",
+        "南京云锦：世界非物质文化遗产，寸锦寸金",
+        "金陵刻经：世界级非遗，刻印文明薪火相传"
+      ]
+    },
+    {
+      "type": "content_image",
+      "title": "金陵味道 · 舌尖上的南京",
+      "bullets": [
+        "鸭血粉丝汤：南京人的灵魂早餐",
+        "盐水鸭：「没有一只鸭子能活着离开南京」",
+        "小笼汤包、牛肉锅贴、赤豆元宵",
+        "活珠子：勇敢者的南京限定美味",
+        "早餐一碗皮肚面，开启地道南京人的一天"
+      ],
+      "image": "/Volumes/Tuo-APFS/workspace/openclaw-text-image/images/nanjing_food_87dcaf9e.png",
+      "image_position": "right"
+    },
+    {
+      "type": "content",
+      "title": "现代南京 · 创新之城",
+      "bullets": [
+        "紫金山实验室：6G与未来网络前沿",
+        "南京大学、东南大学等51所高校汇聚",
+        "江北新区：国家级新区，长三角增长极",
+        "南京南站：亚洲最大高铁站之一",
+        "古韵与创新的交汇，让南京永远年轻"
+      ]
+    }
+  ]
+}
